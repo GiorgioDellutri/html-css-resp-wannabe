@@ -161,53 +161,53 @@ img {
 
     .lessons .col {
         width: 85%;
-      }
+    }
 
     .lessons .col img {
         height: 200px;
-      }
+    }
 
-      div.card p.text{
-        padding-bottom: 80px;
-      }
+    div.card p.text{
+    padding-bottom: 80px;
+    }
 
-      .steps {
+    .steps {
         padding: 3rem 0 0;
         margin: 0;
-      }
+    }
 
     .steps .col {
         width: 85%;
-      }
+    }
 
-      .steps .col img {
+    .steps .col img {
         height: 215px;
         margin-bottom: 1rem;
-      }
+    }
 
-      section.why-us div.container{
+    section.why-us div.container{
         background-color: #222222;
-      }
+    }
 
-      .why-us {
+    .why-us {
         margin-bottom: 0rem;
-      }
+    }
 
-      .why-us .col-left {
+    .why-us .col-left {
         width: 80%;
-      }
+    }
 
-      .why-us .col-right {
+    .why-us .col-right {
         width: 90%;
-      }
+    }
 
-      section.why-us h2{
+    section.why-us h2{
         padding-top: 3rem;
-      }
+    }
 
-      div.col.col-left img{
+    div.col.col-left img{
         padding-bottom: 80px;
-      }
+    }
 }
 
 
