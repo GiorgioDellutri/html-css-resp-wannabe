@@ -129,11 +129,6 @@ img {
  ************************************************/
 
 @media screen  and (max-width: 768px){
-
-    body{
-        font-size: 15px;
-    }
-
     .container {
         width: 768px;
         margin: 0 auto;
@@ -141,4 +136,78 @@ img {
     }
 
 }
+
+@media screen  and (max-width: 480px){
+  
+    body{
+        font-size: 16px;
+    }
+
+    h3{
+        font-size: 1.9rem;
+    }
+   
+    .container {
+        width: 480px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .lessons .col {
+        width: 85%;
+      }
+
+    .lessons .col img {
+        height: 200px;
+      }
+
+      div.card p.text{
+        padding-bottom: 80px;
+      }
+
+      .steps {
+        padding: 3rem 0 0;
+        margin: 0;
+      }
+
+    .steps .col {
+        width: 85%;
+      }
+
+      .steps .col img {
+        height: 215px;
+        margin-bottom: 1rem;
+      }
+
+      section.why-us div.container{
+        background-color: #222222;
+      }
+
+      .why-us {
+        margin-bottom: 0rem;
+      }
+
+      .why-us .col-left {
+        width: 80%;
+      }
+
+      .why-us .col-right {
+        width: 90%;
+      }
+
+      section.why-us h2{
+        padding-top: 3rem;
+      }
+
+      div.col.col-left img{
+        padding-bottom: 80px;
+      }
+}
+
 
